@@ -1,6 +1,6 @@
-# MLS-Andrew-NG
+# Machine Learning Specialization Materials
 
-Andrew NG's Machine Learning Specialization (MLS) Full Materials
+Andrew NG's [Machine Learning Specialization (MLS)](https://www.coursera.org/specializations/machine-learning-introduction) Full Materials
 
 ## [Course 1) Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
 
